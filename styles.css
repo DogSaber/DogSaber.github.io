@@ -1,0 +1,54 @@
+body {
+  background-image: url('https://static.wikia.nocookie.net/oshi_no_ko/images/a/ac/Aqua_Ed_1.0.png/revision/latest?cb=20230420150448');
+  background-size: cover;
+  background-position: center top 30px;
+  background-repeat: no-repeat;
+  background-color: #000000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  width: 80%;
+  max-width: 500px;
+  margin: 100px auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 30px;
+}
+
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+
+.login-form button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #555;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+.login-form button:hover {
+  background-color: #333;
+}
