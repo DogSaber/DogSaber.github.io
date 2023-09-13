@@ -1,7 +1,6 @@
 body {
-  background-image: url('https://static.wikia.nocookie.net/oshi_no_ko/images/a/ac/Aqua_Ed_1.0.png/revision/latest?cb=20230420150448');
   background-size: cover;
-  background-position: center center;
+  background-position: center bottom 30px;
   background-repeat: no-repeat;
   background-color: #000000;
   color: #fff;
