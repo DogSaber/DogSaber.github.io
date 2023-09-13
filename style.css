@@ -84,6 +84,7 @@
      width: 200px;
      padding: 10px 20px;
      margin-bottom: 3px;
+     border: 1px solid white;
 }
  .nutrition .category {
      color: white;
@@ -96,5 +97,9 @@
      font-size: 26px;
      font-weight: 700;
      letter-spacing: 2px;
+}
+
+  * {
+  box-sizing: border-box;
 }
  
